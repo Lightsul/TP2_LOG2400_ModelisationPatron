@@ -1,0 +1,1 @@
+#include "composants/ChauffageCompact.h"
